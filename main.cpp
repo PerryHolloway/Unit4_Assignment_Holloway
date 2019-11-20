@@ -1,5 +1,5 @@
 //Perry Holloway
-//Dr.T
+//Dr.T at TCC Trinty River
 //Fundamental Comp II
 //November 6,2019
 #include <iostream>
@@ -40,3 +40,5 @@ int main() {
 
 return 0;
 }
+ // I learned  how use  a vector to average out and sort a set numbefr of grades.
+ // 
